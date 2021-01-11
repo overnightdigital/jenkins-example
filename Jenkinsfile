@@ -4,7 +4,7 @@
 	stages {
 		stage('BUILD') {
 			steps {
-				echo 'Bulding Stage 1'
+				echo 'Bulding Stage 10'
 			}
 		}
 	}
